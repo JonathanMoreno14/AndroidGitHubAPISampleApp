@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidGitHubAPI</string>
+    <string name="json_url">https://api.github.com/users/JonathanMoreno14/repos</string>
+    <string name="github_user">JonathanMoreno14</string>
+</resources>
