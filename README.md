@@ -1,7 +1,5 @@
 # AndroidGitHubAPI
 
-Sample Android application using GitHub's API to list my public repositories
-
 The sample application uses **Volley** to parse JSON data from Github and display the content via **RecyclerView**
 
 Displays the following:
